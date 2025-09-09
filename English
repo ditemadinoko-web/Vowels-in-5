@@ -1,0 +1,60 @@
+long a - call, "a"
+short a - cat, "a"
+diphthonged a - day, "ay"
+short e - shell, "e"
+schwa* - awake, "a"
+ur/er - earth, "ear"
+followed r - there, "ere"
+long i - fee, "ee"
+short i - fit, "i"
+diphthonged i - fly, "y"
+followed r - here, "ere"
+short o - doll, "o"
+long o - all, "a"
+oy - boy, "oy"
+diphthonged o - go, "o"
+veryshort u - cup, "u"
+short u - book, "oo"
+long u - flew, "ew"
+diphthonged u - queue, "ue x2"
+followed r - sure, "ure"
+  Note: Do not use IPA, instead, use vowel finding.
+|head - first diphthong
+!a
+!e
+!i
+!o
+!u
+|head - second diphthong
+!i
+|
+|
+|
+|
+|
+!r
+|
+|
+|
+|
+|
+!u
+|
+|
+|
+|
+|
+    You can create your own.
+ Head to triphthongs!
+|
+!a
+!e
+|-
+!ir
+|
+|
+|-
+!ur
+|
+|
+  Some of them have "air" in "aircraft". Use "ir" or "ar" instead.
